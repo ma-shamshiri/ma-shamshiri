@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate backend developer and AI enthusiast.</h3>
 
-<p align="center"><img src="imgs/hello_there.gif"></p>
+<p align="center"><img src="images/hello_there.gif"></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
 
-- `whoami`  Research Assistant in the field of medical image processing at <a href="https://www.concordia.ca/research/cenparmi/team.html/">CENPARMI Lab</a> Lab <a href="https://www.concordia.ca/">@Concordia University</a>
+- `whoami`  Research Assistant in the field of medical image processing at <a href="https://www.concordia.ca/research/cenparmi/team.html/"> CENPARMI </a> Lab <a href="https://www.concordia.ca/">@Concordia University</a>
 
 - `uptime`  25 years
 
