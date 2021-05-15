@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
 
-- `whoami`  Research Assistant in the field of medical image processing at <a href="https://www.concordia.ca/research/cenparmi/team.html/"> CENPARMI </a> Lab <a href="https://www.concordia.ca/">@Concordia University</a>
+- `whoami` Research Assistant in the field of medical image processing at <a href="https://www.concordia.ca/research/cenparmi/team.html/"> CENPARMI </a> Lab <a href="https://www.concordia.ca/">@Concordia University</a>
 
-- `uptime`  25 years
+- `uptime` 25 years
 
 - `pwd` Montreal, Canada
 
-- `ps -a`   Learning ML and DL concepts as well as Computer Vision Techniques
+- `ps -a` Learning ML and DL concepts as well as Computer Vision Techniques
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -45,7 +45,10 @@ Here are some ideas to get you started:
 	</a>
 	<a href="mailto:ma.shamshiri@gmail.com" target="_blank">
 		<img align="center" src="images/contacts/email.svg" alt="email" height="40" width="40" />
-        </a>
+    </a>
+	<a href="https://www.joinclubhouse.com/@ma_shamshiri" target="_blank">
+		<img align="center" src="images/contacts/clubhouse.png" alt="email" height="40" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Technologies I know:</h3>
