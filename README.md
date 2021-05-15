@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 	<a href="https://t.me/ma_shamshiri" target="_blank">
 		<img align="center" src="images/contacts/telegram.svg" alt="telegram" height="40" width="40" />
 	</a>
+	<a href="https://www.joinclubhouse.com/@ma_shamshiri" target="_blank">
+		<img align="center" src="images/contacts/clubhouse.png" alt="email" height="40" width="40" />
+    </a>
 	<a href="mailto:ma.shamshiri@gmail.com" target="_blank">
 		<img align="center" src="images/contacts/email.svg" alt="email" height="40" width="40" />
-    </a>
-	<a href="https://www.joinclubhouse.com/@ma_shamshiri" target="_blank">
-		<img align="center" src="images/contacts/clubhouse2.png" alt="email" height="40" width="40" />
     </a>
 </p>
 
