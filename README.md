@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="images/hello_there.gif"></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
+<!---<p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>--->
 
 - `whoami` Research Assistant in the field of medical image processing at <a href="https://www.concordia.ca/research/cenparmi/team.html/"> CENPARMI </a> Lab <a href="https://www.concordia.ca/">@Concordia University</a>
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<h3 align="left">Technologies I know:</h3>
+<h3 align="left">Technologies I am familiar with:</h3>
 <p align="center">
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="devicon" height="50" width="50" />
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="devicon" height="50" width="50" />
