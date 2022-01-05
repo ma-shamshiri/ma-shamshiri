@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 </p>
 -->
 <p align="center">
-	<a href="https://www.linkedin.com/in/ma-shamshiri/" target="_blank"">
-		<img align="center" src="images/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
-	</a>
 	<a href="mailto:ma.shamshiri@gmail.com" target="_blank">
 		<img align="center" src="images/contacts/email.svg" alt="email" height="40" width="40" />
+	</a>
+	<a href="https://www.linkedin.com/in/ma-shamshiri/" target="_blank"">
+		<img align="center" src="images/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
 	</a>
 	<a href="https://twitter.com/ma_shamshiri" target="_blank"> 
 		<img align="center" src="images/contacts/twitter.svg" alt="twitter" height="40" width="40" />
