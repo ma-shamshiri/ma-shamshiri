@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - `whoami` Graduate research assistant in the field of medical image processing at <a href="https://www.concordia.ca/research/cenparmi/team.html/"> CENPARMI </a> Lab <a href="https://www.concordia.ca/">@Concordia University</a>
 
-- `uptime` 25 years
+<!--- `uptime` 25 years-->
 
 - `pwd` Montreal, Canada
 
