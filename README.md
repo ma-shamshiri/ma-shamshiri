@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 
-<h3 align="center">A passionate backend developer and AI enthusiast.</h3>
+<h3 align="center">A passionate Full-Stack Developer and AI Enthusiast.</h3>
 
 <p align="center"><img src="images/hello_there.gif"></p>
 
