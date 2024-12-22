@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!--- `uptime` 25 years-->
 
-- `pwd` Montreal, Canada
+- `pwd` Canada
 
 - `ps -a` Learning ML/DL concepts as well as Computer Vision Techniques
 
