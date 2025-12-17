@@ -79,6 +79,45 @@
 
 ---
 
+## Community & Volunteer Work
+
+I’ve contributed as a **Web Developer** to multiple **TEDx events**, building and maintaining event websites used by organizers, speakers, and attendees.
+
+<p align="center">
+  <a href="https://www.tedxuniversityofsouthflorida.com" target="_blank">
+    <img src="images/TEDx/USF.png" height="70" alt="TEDxUniversityofSouthFlorida" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tedxconcordiauniversity.com" target="_blank">
+    <img src="images/TEDx/Concordia.png" height="70" alt="TEDxConcordiaUniversity" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tedxlakeheadu.ca" target="_blank">
+    <img src="images/TEDx/Lakehead.png" height="70" alt="TEDxLakeheadU" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tedxiut.com" target="_blank">
+    <img src="images/TEDx/IUT.png" height="70" alt="TEDxIUT" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tedxsut.com" target="_blank">
+    <img src="images/TEDx/Sharif.png" height="70" alt="TEDxSUT" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tedxut.com" target="_blank">
+    <img src="images/TEDx/Tehran.png" height="70" alt="TEDxUT" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tedxamirkabir.com" target="_blank">
+    <img src="images/TEDx/Amirkabir.png" height="70" alt="TEDxAmirKabir" />
+  </a>
+</p>
+
+
+---
+
 <details>
   <summary>👋 Just for fun</summary>
 
