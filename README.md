@@ -2,16 +2,15 @@
 
 # Amin Shamshiri
 
-**Full-Stack Software Engineer | AI/ML Systems**
+**Software Engineer | Backend & Distributed Systems | Machine Learning & Applied AI**
 
-Building production web platforms, backend systems, data workflows, and applied AI/ML solutions.
+Building reliable production systems across backend engineering, event-driven architectures, full-stack applications, and applied AI/ML.
 
 Toronto, Canada
 
-[Portfolio](https://aminshamshiri.com) ·
-[LinkedIn](https://www.linkedin.com/in/ma-shamshiri/) ·
-[GitHub](https://github.com/ma-shamshiri) ·
-[Email](mailto:ma.shamshiri@gmail.com)
+<a href="https://aminshamshiri.com">🌐 Portfolio</a> ·
+<a href="https://www.linkedin.com/in/ma-shamshiri/">💼 LinkedIn</a> ·
+<a href="mailto:ma.shamshiri@gmail.com">✉️ Email</a>
 
 </div>
 
@@ -19,134 +18,102 @@ Toronto, Canada
 
 ## About
 
-I am a full-stack software engineer with experience building production SaaS systems, backend services, database-driven applications, and AI-enabled product features.
+I am a Software Engineer with 5+ years of experience building scalable production systems across backend services, distributed applications, data workflows, and full-stack products.
 
-My work sits at the intersection of **software engineering**, **backend systems**, **data workflows**, and **applied machine learning**. I focus on building reliable, maintainable, and practical systems that solve real business and technical problems.
+My work spans Java and Python services, Spring Boot APIs, Kafka-based pipelines, PostgreSQL, React/TypeScript, model deployment, RAG systems, and MLOps. I focus on building reliable, maintainable systems that move cleanly from implementation to production.
 
-I hold an M.Sc. in Computer Science from **Concordia University**, where my research focused on applied machine learning and computer vision at **CENPARMI Lab**.
+I hold an M.Sc. in Computer Science from Concordia University, where I conducted Machine Learning research at CENPARMI Lab focused on transfer learning and medical image classification.
 
 ---
 
-## Engineering Focus
+## Selected Projects
 
-| Area | Focus |
-|---|---|
-| Backend Systems | APIs, services, database design, system reliability, performance |
-| Full-Stack Development | Production features, UI workflows, frontend-backend integration |
-| AI/ML Systems | ML pipelines, model integration, inference workflows, applied AI features |
-| Data Systems | PostgreSQL, SQL workflows, data processing, Kafka-based pipelines |
-| DevOps & Delivery | Docker, CI/CD, GitHub Actions, Linux-based deployments |
+### [Event-Driven Asset & Work Order Platform](https://github.com/ma-shamshiri/Event-Driven-Asset-Work-Order-Platform)
+
+Production-style backend platform for managing asset and work-order lifecycles using event-driven architecture.
+
+**Java · Spring Boot · PostgreSQL · Apache Kafka · Docker · GitHub Actions**
+
+- REST APIs for asset and work-order lifecycle management
+- Kafka-based state transitions and asynchronous event processing
+- Idempotent consumers, transactional persistence, and failure handling
+- Role-based access control and indexed PostgreSQL queries
+
+### [Operational Monitoring & Management Dashboard](https://github.com/ma-shamshiri/Operational-Monitoring-Management-Dashboard)
+
+Full-stack operational dashboard for monitoring system metrics, events, and application health.
+
+**Next.js · React · TypeScript · Node.js · PostgreSQL · Docker**
+
+- Responsive role-based interfaces with filtering and resilient UI states
+- REST APIs and PostgreSQL models for time-based operational queries
+- Aggregation workflows supporting efficient system monitoring
+
+### [FridgeAI](https://github.com/aminfadaei116/fridgeAI)
+
+Seven-agent AI system built during the OpenAI Global Hackathon 2026 for automated fridge inventory tracking, spoilage prediction, and meal planning.
+
+**Python · OpenAI API · Gemini · FastAPI · Pydantic · OpenCV · Docker**
+
+- Multi-agent architecture with structured outputs and tool calling
+- Vision-based inventory updates using camera-frame comparison
+- Automated reasoning for inventory, nutrition, and meal planning
+
+### [AI Parcel Analysis](https://github.com/NimaVahdat/parcel-brief-nvidia)
+
+Multi-agent AI platform built during NVIDIA Spark Hack 2026 for parcel zoning and development feasibility analysis.
+
+**Python · LangGraph · vLLM · NVIDIA Nemotron · Ollama · FastAPI**
+
+- RAG-based retrieval and reasoning over zoning and development data
+- LangGraph orchestration across specialized analysis workflows
+- Local LLM inference using NVIDIA Nemotron and vLLM
+
+### [Compatible-Domain Transfer Learning](https://github.com/ma-shamshiri/Compatible-domain-Transfer-Learning)
+
+Graduate research project on transfer learning for breast cancer cytological image classification under limited annotated data.
+
+**Python · TensorFlow · OpenCV · NumPy · scikit-learn**
 
 ---
 
 ## Technical Stack
 
 **Languages**  
-Java, Python, TypeScript, JavaScript, SQL
+Java · Python · TypeScript · JavaScript · SQL · C#
 
 **Backend & APIs**  
-Spring Boot, Node.js, Express, REST APIs, microservices, Kafka
+Spring Boot · FastAPI · Node.js · REST APIs · Microservices · Apache Kafka
 
 **Frontend**  
-React, React Native, Next.js, Tailwind CSS
+React · Next.js · Tailwind CSS
 
 **Databases & Data**  
-PostgreSQL, SQL Server, MySQL, data pipelines, query optimization
+PostgreSQL · SQL Server · Redis · Pandas · NumPy
 
 **Machine Learning & AI**  
-TensorFlow, PyTorch, scikit-learn, NumPy, Pandas, computer vision, time-series analysis, model evaluation
+TensorFlow · scikit-learn · Hugging Face Transformers · Large Language Models · RAG · LangGraph · Embeddings · Vector Search
 
-**DevOps & Infrastructure**  
-Docker, GitHub Actions, CI/CD pipelines, Linux, Git, production deployments
-
----
-
-## Selected Work
-
-My pinned repositories highlight work across production software engineering, applied machine learning, and full-stack product development.
-
-Representative areas include:
-
-- **Enterprise software systems:** SaaS features, backend workflows, database-driven applications
-- **AI/ML applications:** transfer learning, computer vision, time-series classification, model evaluation
-- **Data and automation pipelines:** Kafka-based messaging, PostgreSQL workflows, integration services
-- **Full-stack platforms:** interactive UI workflows connected to backend APIs and data services
-
-> See my pinned repositories below for selected projects.
+**Cloud & DevOps**  
+Docker · AWS · GitHub Actions · CI/CD · Linux · Git
 
 ---
 
-## Professional Experience
+## Research
 
-**Full-Stack Software Engineer, EnerZam**
-
-Building and maintaining production SaaS systems for building operations, asset management, work orders, and enterprise workflows.
-
-Key areas of work include:
-
-- Backend development with Java, Spring, SQL, and production APIs
-- Frontend workflows using JavaScript, React, and enterprise UI patterns
-- Database-driven features, reporting workflows, and system integrations
-- Applied AI/ML and automation features for operational software systems
-
----
-
-## Research Background
-
-**M.Sc. Computer Science, Concordia University**  
+**M.Sc. in Computer Science, Concordia University**  
 **Graduate Research Assistant, CENPARMI Lab**
 
-Research focus:
+Research focused on transfer learning, deep learning, computer vision, and medical image classification under limited annotated data.
 
-- Applied machine learning
-- Computer vision
-- Transfer learning
-- Medical image classification
-- Model evaluation with limited annotated data
+Published in *Computers in Biology and Medicine*:
+
+[Compatible-domain Transfer Learning for Breast Cancer Classification with Limited Annotated Data](https://doi.org/10.1016/j.compbiomed.2023.106575)
 
 ---
 
-## Community & Volunteer Work
+## Community
 
-I have contributed as a **Web Developer** to multiple **TEDx events**, building and maintaining event websites used by organizers, speakers, and attendees.
+Volunteer Web Developer for multiple TEDx events, building responsive event websites and digital experiences for organizers, speakers, and attendees.
 
-<p align="center">
-  <a href="https://www.tedxuniversityofsouthflorida.com" target="_blank">
-    <img src="images/TEDx/USF.png" height="65" alt="TEDxUniversityofSouthFlorida" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tedxconcordiauniversity.com" target="_blank">
-    <img src="images/TEDx/Concordia.png" height="65" alt="TEDxConcordiaUniversity" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tedxlakeheadu.ca" target="_blank">
-    <img src="images/TEDx/Lakehead.png" height="65" alt="TEDxLakeheadU" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://tedxiut.com" target="_blank">
-    <img src="images/TEDx/IUT.png" height="65" alt="TEDxIUT" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://tedxsut.com" target="_blank">
-    <img src="images/TEDx/Sharif.png" height="65" alt="TEDxSUT" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://tedxut.com" target="_blank">
-    <img src="images/TEDx/Tehran.png" height="65" alt="TEDxUT" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://tedxamirkabir.com" target="_blank">
-    <img src="images/TEDx/Amirkabir.png" height="65" alt="TEDxAmirKabir" />
-  </a>
-</p>
-
----
-
-## Contact
-
-- Portfolio: [aminshamshiri.com](https://aminshamshiri.com)
-- LinkedIn: [linkedin.com/in/ma-shamshiri](https://www.linkedin.com/in/ma-shamshiri/)
-- GitHub: [github.com/ma-shamshiri](https://github.com/ma-shamshiri)
-- Email: [ma.shamshiri@gmail.com](mailto:ma.shamshiri@gmail.com)
+Also contributed to the Machine Learning community through teaching, research, peer review, and technical events.
